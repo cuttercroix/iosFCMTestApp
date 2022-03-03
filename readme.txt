@@ -1,0 +1,1 @@
+simple anngular capacitor app for testing FCM
